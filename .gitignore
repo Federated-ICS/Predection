@@ -39,10 +39,7 @@ data/*.json
 data/*.csv
 
 # Model checkpoints
-checkpoints/
-*.pt
-*.pth
-*.h5
+
 
 # Logs
 logs/
